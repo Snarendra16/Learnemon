@@ -2,7 +2,7 @@
 
 **Learnemon** is an interactive, gamified learning platform designed to make learning to code fun and engaging. It combines educational content with mini-games, quizzes, and a reward system to motivate users.
 
-## 🚀 Features
+##  Features
 
 *   **Gamified Learning**: Earn XP and coins by completing lessons and challenges.
 *   **Interactive Lessons**: Structured learning paths for Beginner, Intermediate, and Advanced levels.
@@ -17,7 +17,7 @@
 *   **Leaderboard**: Compete with other learners and see where you stand.
 *   **Secure Authentication**: User registration and login system to save your progress.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 *   **Backend**: Python, Flask
 *   **Database**: SQLite, SQLAlchemy
@@ -49,7 +49,7 @@
 4.  **Initialize the Database**
     The application automatically creates the database (`instance/db.db`) on the first run if it doesn't exist.
 
-## 🏃‍♂️ Running the Application
+##  Running the Application
 
 1.  **Start the server**
     ```bash
@@ -60,7 +60,7 @@
     Open your web browser and go to:
     `http://127.0.0.1:5000`
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Learnemon/
@@ -77,10 +77,3 @@ Learnemon/
 └── README.md            # Project documentation
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
